@@ -13,7 +13,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 
 ## Getting started
 ### Installation
-[Download](https://github.com/RowanFeely/nord-ulysses/releases/latest) the latest [`Nord.ultheme`](https://github.com/RowanFeely/nord-ulysses/raw/master/src/Nord.ultheme) file from the GitHub repository and import it:
+[Download](https://github.com/RowanFeely/nord-ulysses/raw/master/src/Nord.ultheme) the latest [`Nord.ultheme`](https://github.com/RowanFeely/nord-ulysses/blob/master/src/Nord.ultheme) file from the GitHub repository and import it:
   1. Start Ulysses and open the *Preferences*
   2. Switch to the *markup* tab located in the top bar
   3. Select the *add themes* tabs on the bottom right side
