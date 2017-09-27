@@ -26,7 +26,6 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
   4. To use the dark theme without changing the UI color scheme, select *dark theme* instead, located within the *view* tab
 <p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:100%;"/></p>
 
----
 
 ## Screenshots
 
