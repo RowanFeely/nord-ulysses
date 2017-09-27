@@ -1,4 +1,4 @@
-<p align="center"><img src="src/assets/Nord-logo.svg"/></p>
+<p align="center"><img src="src/assets/Nord-logo.svg" /></p>
 
 <p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/rowanfeely/nord-ulysses/releases/latest"><img src="https://img.shields.io/github/release/rowanfeely/nord-ulysses.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a></p>
 
@@ -9,7 +9,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 
 ---
 
-<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true"/>
+<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:100%;"/>
 
 ## Getting started
 ### Installation
@@ -24,14 +24,14 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
   1. Start Ulysses and open the *view* tab
   3. Select the *dark mode* drop down menu item
   4. To use the dark theme without changing the UI color scheme, select *dark theme* instead, located within the *view* tab
-<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true"/></p>
+<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:100%;"/></p>
 
 ---
 
 ## Screenshots
 
 
-<p align="center"><strong>Light</strong><br><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot.png?raw=true"><strong>Dark</strong><br><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true"/></p>
+<p align="center"><strong>Light</strong><br><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot.png?raw=true" style="max-width:100%"><strong>Dark</strong><br><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:100%;"/></p>
 
 ## Development
 [![](https://img.shields.io/badge/Changelog-0.2.0-81A1C1.svg?style=flat-square)](https://github.com/rowanfeely/nord-ulysses/blob/v0.2.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow--branching--model-81A1C1.svg?style=flat-square)](http://nvie.com/posts/a-successful-git-branching-model)
