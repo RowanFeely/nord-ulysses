@@ -9,7 +9,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 
 ---
 
-<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:100%;"/>
+<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:50%;"/>
 
 ## Getting started
 ### Installation
@@ -24,13 +24,13 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
   1. Start Ulysses and open the *view* tab
   3. Select the *dark mode* drop down menu item
   4. To use the dark theme without changing the UI color scheme, select *dark theme* instead, located within the *view* tab
-<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:100%;"/></p>
+<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:50%;"/></p>
 
 
 ## Screenshots
 
 
-<p align="center"><strong>Light</strong><br><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot.png?raw=true" style="max-width:100%"><strong>Dark</strong><br><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:100%;"/></p>
+<p align="center"><strong>Light</strong><br><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot.png?raw=true" style="max-width:100%"><strong>Dark</strong><br><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:50%;"/></p>
 
 ## Development
 [![](https://img.shields.io/badge/Changelog-0.2.0-81A1C1.svg?style=flat-square)](https://github.com/rowanfeely/nord-ulysses/blob/v0.2.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow--branching--model-81A1C1.svg?style=flat-square)](http://nvie.com/posts/a-successful-git-branching-model)
