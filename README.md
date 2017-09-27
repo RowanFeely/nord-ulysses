@@ -24,7 +24,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
   1. Start Ulysses and open the *view* tab
   3. Select the *dark mode* drop down menu item
   4. To use the dark theme without changing the UI color scheme, select *dark theme* instead, located within the *view* tab
-<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/screenshot_dark.png?raw=true" style="max-width:50%;"/></p>
+<p align="center"><img src="https://github.com/RowanFeely/nord-ulysses/blob/master/src/assets/darkmode.png?raw=true" style="max-width:80%;"/></p>
 
 
 ## Screenshots
