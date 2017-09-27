@@ -1,4 +1,4 @@
-<p align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+CiAgPGcgZmlsbD0iIzJFMzQ0MCI+CiAgICA8cGF0aCBkPSJNODcuMTAyIDExOC4xMzFMNDIuNjY3IDYxLjI1NVY0NS40NzNsNDkuMjQ3IDYzLjY2NWgyNi40NjNWMTkuNDkySDczLjg3bC05LjYyMy05LjYyM0gxMjh2MTA4LjI2MnoiLz4KICAgIDxwYXRoIGQ9Ik00MC44OTkgOS44NjlsNDQuNDM0IDU2Ljg3NHYxNS43ODFMMzYuMDg3IDE4Ljg2MUg5LjYyNHY4OS42NDZoNDQuNTA3bDkuNjIzIDkuNjIzSDBWOS44Njl6Ii8+CiAgPC9nPgo8L3N2Zz4K"/></p>
+<p align="center"><img src="src/assets/Nord-logo.svg"/></p>
 
 <p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/rowanfeely/nord-ulysses/releases/latest"><img src="https://img.shields.io/github/release/rowanfeely/nord-ulysses.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a></p>
 
