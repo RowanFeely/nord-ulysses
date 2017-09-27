@@ -1,6 +1,6 @@
 <p align="center"><img src="src/assets/Nord-logo.svg" /></p>
 
-<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/rowanfeely/nord-ulysses/releases/latest"><img src="https://img.shields.io/github/release/rowanfeely/nord-ulysses.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a></p>
+<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/RowanFeely/nord-ulysses/releases/latest"><img src="https://img.shields.io/github/release/rowanfeely/nord-ulysses.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a></p>
 
 <p align="center">An arctic, north-bluish clean and elegant <a href="https://ulyssesapp.com">Ulysses</a> color theme.</p>
 
@@ -13,7 +13,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 
 ## Getting started
 ### Installation
-[Download](https://github.com/rowanfeely/nord-ulysses/releases/latest) the latest [`Nord.ultheme`](https://github.com/rowanfeely/nord-ulysses/blob/src/Nord.itermcolors) file from the GitHub repository and import it:
+[Download](https://github.com/RowanFeely/nord-ulysses/releases/latest) the latest [`Nord.ultheme`](https://github.com/RowanFeely/nord-ulysses/raw/master/src/Nord.ultheme) file from the GitHub repository and import it:
   1. Start Ulysses and open the *Preferences*
   2. Switch to the *markup* tab located in the top bar
   3. Select the *add themes* tabs on the bottom right side
