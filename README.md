@@ -1,4 +1,9 @@
-<p align="center"><img src="https://cdn.rawgit.com/RowanFeely/nord-ulysses/src/assets/Nord-logo.svg"/></p>
+<p align="center"><img src="<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g fill="#2E3440">
+    <path d="M87.102 118.131L42.667 61.255V45.473l49.247 63.665h26.463V19.492H73.87l-9.623-9.623H128v108.262z"/>
+    <path d="M40.899 9.869l44.434 56.874v15.781L36.087 18.861H9.624v89.646h44.507l9.623 9.623H0V9.869z"/>
+  </g>
+</svg>"/></p>
 
 <p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/rowanfeely/nord-ulysses/releases/latest"><img src="https://img.shields.io/github/release/rowanfeely/nord-ulysses.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a></p>
 
